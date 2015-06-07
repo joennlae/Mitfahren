@@ -1,7 +1,7 @@
 Mitfahren
 ========================
 
-A project for sport or other clubs who want to do organize their driving things and so online. It's still in Beta and the Design could be rework it's more functionally.
+A project for sport or other clubs who want to do organize their driving things and so online. It's still in beta and the design needs a rework. It is only functionally.
 
 A Website with Pure CSS
 ========================
