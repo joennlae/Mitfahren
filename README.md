@@ -1,7 +1,12 @@
-Pure CSS Layout Examples
+Mitfahren
 ========================
 
-Layout examples using [Pure CSS][pure] compiled from the [pure-site][] project.
+A project for sport or other clubs who want to do organize their driving things and so online. It's still in Beta and the Design could be rework it's more functionally.
+
+A Website with Pure CSS
+========================
+
+This site is using [Pure CSS][pure].
 
 [pure]: http://purecss.io/
 [pure-site]: https://github.com/yahoo/pure-site
